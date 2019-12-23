@@ -4,7 +4,7 @@ reading books about programming
   
   
   
-## 1. 프로그래머의 길, 멘토에게 묻다.
+## 1. 프로그래머의 길, 멘토에게 묻다.(Apprenticeship Patterns)
 <div align="center">
 
 ![](http://image.kyobobook.co.kr/images/book/xlarge/807/x9788991268807.jpg)  
