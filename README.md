@@ -26,6 +26,6 @@ reading books about programming
 | 우인준   |
 | 유세헌   |
 | 223   |
-|띵|
+| 전재열 |
 
 </div>
