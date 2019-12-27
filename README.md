@@ -22,8 +22,8 @@ reading books about programming
 | 힘냅시다  |O|O|O|O||
 | J     ||||||
 | 42    ||||||
-| 박소현   |O|O|O|O||
-| 우인준   |O|O|O|O||
+| 박소현   |O|O|O|O|O|
+| 우인준   |O|O|O|O|O|
 | 유세헌   |O|||||
 | 223   ||||||
 | 전재열 |O|O||||
