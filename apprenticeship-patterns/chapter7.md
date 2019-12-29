@@ -1,12 +1,7 @@
 # Chapter7. 맺는 글 & 책 전반에 대한 감상  
   
-<!-- example -->
-<!-- 
 
 ### 전환오    
-
- 감동적이었다. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit fugit at ratione reiciendis accusantium placeat cupiditate, nemo labore asperiores corrupti repellat dignissimos repellendus architecto ducimus et doloremque voluptatibus sed aut.
+어떻게 보면 당연한 말들이었나 싶다. 주변 개발자들이나 커뮤니티에서 들어본 말들이었을 수도 있겠다. 하지만 책을 통해 구체적인 사례와 지침을 읽는 것은 이전과는 다른 경험이었다. 읽으면서 소프트웨어 장인에 대한 인상이 뚜렷해졌다. 구체적인 행동지침은 까먹을 수 있어도, 그 기저에 일관된 견습의 방향성은 잊지 않을 것 같다. 
 
 ---
-
--->
