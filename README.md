@@ -55,6 +55,6 @@ reading books about programming
 | 우인준   |O|O|O|O|O|O
 | 유세헌   |O|||||
 | 223   ||||||
-| 전재열 |O|O|O|O||
+| 전재열 |O|O|O|O|O|
 
 </div>
