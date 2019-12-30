@@ -1,10 +1,10 @@
 # study-books
 reading books about programming  
   
-<div align="center">
+
   
 ## 2. 어떻게 문제를 풀 것인가 (How To Solve it)
-
+<div align="center">
 ![](https://image.aladin.co.kr/product/39/6/cover500/s812635984_1.jpg)
 
 `19.12.30 ~`
@@ -24,10 +24,11 @@ reading books about programming
 | 우인준   |
 | 유세헌   |
 | 전재열 |
+</div>
   
 ## 1. 프로그래머의 길, 멘토에게 묻다.(Apprenticeship Patterns)
 
-
+<div align="center">
 ![](http://image.kyobobook.co.kr/images/book/xlarge/807/x9788991268807.jpg)  
 
 `19.12.23 ~ 19.12.29`
