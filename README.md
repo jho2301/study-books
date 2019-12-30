@@ -4,7 +4,9 @@ reading books about programming
 
   
 ## 2. 어떻게 문제를 풀 것인가 (How To Solve it)
+
 <div align="center">
+  
 ![](https://image.aladin.co.kr/product/39/6/cover500/s812635984_1.jpg)
 
 `19.12.30 ~`
