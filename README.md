@@ -26,11 +26,15 @@ reading books about programming
 | 우인준   |
 | 유세헌   |
 | 전재열 |
-</div>
+</div>  
+  
+    
+    
   
 ## 1. 프로그래머의 길, 멘토에게 묻다.(Apprenticeship Patterns)
 
 <div align="center">
+  
 ![](http://image.kyobobook.co.kr/images/book/xlarge/807/x9788991268807.jpg)  
 
 `19.12.23 ~ 19.12.29`
