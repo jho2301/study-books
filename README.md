@@ -17,7 +17,7 @@ reading books about programming
   
 ![](https://image.aladin.co.kr/product/39/6/cover500/s812635984_1.jpg)
 
-`19.12.30 ~`
+`19.12.30 ~ 20.01.04`
 
   
     
